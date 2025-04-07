@@ -7,7 +7,7 @@ Software Developer
 A skilled software developer passionate about creating innovative systems that enhance company efficiency and productivity. Proficient in developing reliable and user-friendly web and mobile applications using HTML, CSS, SCSS, JavaScript, React.js, Next.js, and React Native. Experienced with design tools including Figma, Canva, and Photoshop, and familiar with AWS EC2, Linux, CI/CD Pipeline, GitHub and MySQL. Adept at delivering high-quality projects that meet client needs and drive business success.
 
 * 🌍  I'm based in Canada
-* 🖥️  See my portfolio at [https://kishankumardas.netlify.app](http://kishankumardas.netlify.app/)
+* 🖥️  See my portfolio at [https://www.kishankumardas.com](https://www.kishankumardas.com/)
 * ✉️  You can contact me at [kishank2607@gmail.com](mailto:kishank2607@gmail.com)
 
 ### Skills
